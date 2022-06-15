@@ -1,0 +1,28 @@
+/* CSS Document */
+body{
+  background-color: bisque;
+}
+h1{
+  text-align: center;
+}
+img{
+  height: 250px;
+  width: 400px;
+  border-color: darkgrey;
+  border-width: 3px;
+  border-style: solid;
+  border-radius: 75px;
+  float:right;
+}
+p2{
+  color: darkgray;
+  text-align:right;
+}
+h3{
+  text-align: center;
+  background-color: antiquewhite;
+  border-radius: 94px;
+}
+h6{
+  text-align:right;
+}
